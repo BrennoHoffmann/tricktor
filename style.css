@@ -1,0 +1,11 @@
+body {
+    background-image: url(img/remnantfromtheashes.webp);
+    
+    width: 100%;
+    background-attachment: fixed;
+}
+.jumbotron{
+    background-color: #7d7d87;
+    
+}
+
